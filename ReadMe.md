@@ -6,6 +6,7 @@ The repository contains a development script atests to ensure the pricer is accu
 
 ## Open in MATLAB Online
 You can open the app to try it yourself with the badge here:\
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=barnesdavidj/Swap-Pricer&project=SwapPricer.prj&file=App/SwapPricingSimple.mlapp&focus=true)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=dbarnesmathworks/Swap-Pricer&project=SwapPricer.prj&file=App/SwapPricingSimple.mlapp&focus=true)
+
 ## Contact
 Feel free to reach out if you have any questions!
